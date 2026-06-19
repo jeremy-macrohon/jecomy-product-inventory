@@ -1,0 +1,15 @@
+name: jecomy_product_inventory_backend
+description: Dart shelf backend stub for Jecomy product inventory
+version: 0.1.0
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies:
+  shelf: ^1.4.0
+  shelf_router: ^1.0.0
+  shelf_static: ^1.0.0
+  crypto: ^3.0.0
+  dart_jsonwebtoken: ^3.1.0
+
+dev_dependencies:
+  test: ^1.21.0
